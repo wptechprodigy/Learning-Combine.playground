@@ -25,7 +25,7 @@ In the introduction part, I learned the following concept in Combine:
  - How to create a custom Subscriber (Thus far - will be learning to create custom Publisher later)
  - Type erasure and so on
 
-## Sample Custom Subcriber - Hand Subcriber
+## Sample Custom Subcriber - Double Subcriber
 
 ```swift
 import Combine
