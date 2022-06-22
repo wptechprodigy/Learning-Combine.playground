@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Chapter 2-Introduction'/>
+        <page name='Just'/>
+        <page name='Custom Subscriber'/>
+        <page name='Future'/>
+        <page name='PassThroughSubject'/>
+        <page name='CurrentValueSubject'/>
+        <page name='DynamicallyAdjustingDemand'/>
+        <page name='TypeErasure'/>
+        <page name='AsyncAwait'/>
+        <page name='Challenge-2'/>
+    </pages>
+</playground>
